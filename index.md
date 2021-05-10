@@ -18,10 +18,11 @@
 - [文字にスタイルを指定する](docs/css_text.html) 
 - [HTML要素に余白を指定する](docs/css_boxmodel.html) 
 - [CSSページレイアウト方法まとめ ](docs/css_layout.html) 
-- [画像などを中央にレイアウトする](docs/css_layout02.html)✨*New*
+- [画像などを中央にレイアウトする](docs/css_layout02.html)
 
 ### JavaScriptで動かしてみる
 - [クリックしてテキストを変える](docs/js_change_text.html) 
+- [文字をコンソールとアラートで表示する](docs/js_hello.html) ✨*New*
 
 ### canvasで絵を描いてみる
 - [簡単な図形を描いてみる](docs/canvas_draw.html) 
