@@ -1,4 +1,4 @@
-2021.5.7更新
+2021.5.10更新
 
 ---
 
@@ -21,16 +21,15 @@
 - [画像などを中央にレイアウトする](docs/css_layout02.html)
 
 ### JavaScriptで動かしてみる
-- [クリックしてテキストを変える](docs/js_change_text.html) 
+#### JS 基礎編
 - [文字をコンソールとアラートで表示する](docs/js_hello.html) ✨*New*
 
-### canvasで絵を描いてみる
+#### JS DOM編
+- [クリックしてテキストを変える](docs/js_change_text.html) 
+
+#### JS canvas編
 - [簡単な図形を描いてみる](docs/canvas_draw.html) 
-
-### 3Dグラフィックを描画する
 - [キューブをぐるぐる回す](docs/cube.html) 
-
-
 
 
 ---
