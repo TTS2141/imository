@@ -21,13 +21,14 @@
 - [画像などを中央にレイアウトする](docs/css_layout02.html)
 
 ### JavaScriptで動かしてみる
-#### JS 基礎編
-- [文字をコンソールとアラートで表示する](docs/js_hello.html) ✨*New*
+#### 基礎編
+- [コンソールとアラートで文字を表示する](docs/js-hello.html) ✨*New*
+- [変数を使う](docs/js-core01.html) ✨*New*
 
-#### JS DOM編
+#### DOM編
 - [クリックしてテキストを変える](docs/js_change_text.html) 
 
-#### JS canvas編
+#### canvas編
 - [簡単な図形を描いてみる](docs/canvas_draw.html) 
 - [キューブをぐるぐる回す](docs/cube.html) 
 
@@ -35,7 +36,7 @@
 ---
 
 [GitHub](https://github.com/TTS2141/imository) | 
-[TRlog](https://tts2141.github.io/blog/)  
+[Blog](https://tts2141.github.io/blog/)  
 
 ![TryTogether@Japan](/images/TryTogetherAtJapanLogo.png)
 [TryTogether@Japan](https://trytogetheratjapan.org/)
