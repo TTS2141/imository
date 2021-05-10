@@ -24,6 +24,7 @@
 #### 基礎編
 - [コンソールとアラートで文字を表示する](docs/js-hello.html) ✨*New*
 - [変数を使う](docs/js-core01.html) ✨*New*
+- [関数を使う](docs/js-core02.html) ✨*New*
 
 #### DOM編
 - [クリックしてテキストを変える](docs/js_change_text.html) 
